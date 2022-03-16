@@ -1,4 +1,5 @@
 Resolusi:
+- Belajar frontend development sesuai roadmap.
 - Menguasai Dasar HTML, CSS, dan JavaScript.
 - Mencoba membangun website yang baik.
 - Membuat portofolio.
