@@ -5,3 +5,5 @@ Resolusi:
 - Membuat portofolio.
 - Masuk universitas negeri.
 - Membeli sepatu basket.
+- Belajar Python
+- Membuat program pengingat rakaat ketika shalat.
