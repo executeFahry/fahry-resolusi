@@ -7,3 +7,4 @@ Resolusi:
 - Membeli sepatu basket.
 - Belajar Python
 - Membuat program pengingat rakaat ketika shalat.
+- Lebih rajin shalat.
